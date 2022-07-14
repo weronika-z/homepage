@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-color: rgba(247, 237, 226, 0.795);
+    color: #222;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+    margin: auto;
+    max-width: 850px;
+    padding: 20px;
+}
+
+.body--darkGreen {
+    background-color: #364944;
+    color:rgb(247, 237, 226);
+}

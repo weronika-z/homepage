@@ -1,0 +1,9 @@
+.header {
+    color: rgb(132, 165, 157);
+    text-align: center;
+}
+
+.header__image {
+    max-width: 100%;
+    border-radius: 10%;
+}
