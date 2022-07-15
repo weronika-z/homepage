@@ -17,4 +17,4 @@ It is written in HTML, CSS and JS for interaction at the bottom of the page. I u
 - JavaScript
 - BEM
 
-[widok strony](https://postimg.cc/SXBtVB7r)
+[widok strony](https://i.postimg.cc/SsRFQqnw/italy.gif)
