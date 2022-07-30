@@ -4,7 +4,7 @@
     };
     
     const toggleBackground = () => {
-        const body = document.querySelector(".body");
+        const body = document.querySelector(".js-body");
         const nextColorName = document.querySelector(".js-nextColorName");
         body.classList.toggle("body--darkGreen");
         nextColorName.innerText = body.classList.contains("body--darkGreen") ? "jasny" : "ciemny";
