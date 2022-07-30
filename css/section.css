@@ -22,8 +22,9 @@
 }
 
 .section__button {
-    max-width: 100%;
+    width: 100%;
     width: 800px;
     border: none;
     background-color: rgb(132, 165, 157);
+    cursor: pointer;
 }
